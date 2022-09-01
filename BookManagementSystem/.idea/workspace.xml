@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffd1c74f-0f6d-48d7-b7b5-c957f1557d9b" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Di1JJsrOwycxTD8SVlsSPmcZJB" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunManager" selected="应用程序.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.App" />
+      <module name="BookManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitDateUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.util.InitDateUtil" />
+      <module name="BookManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LendServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.service.impl.LendServiceImpl" />
+      <module name="BookManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.App" />
+        <item itemvalue="应用程序.LendServiceImpl" />
+        <item itemvalue="应用程序.InitDateUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffd1c74f-0f6d-48d7-b7b5-c957f1557d9b" name="默认的" comment="" />
+      <created>1661167017708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661167017708</updated>
+      <workItem from="1661167021204" duration="214000" />
+      <workItem from="1661167499616" duration="465000" />
+      <workItem from="1661167995223" duration="10000" />
+      <workItem from="1661231998294" duration="183000" />
+      <workItem from="1661235575458" duration="6800000" />
+      <workItem from="1661413243720" duration="6889000" />
+      <workItem from="1661491405971" duration="15492000" />
+      <workItem from="1661664788028" duration="792000" />
+      <workItem from="1661693332906" duration="4044000" />
+      <workItem from="1661742356114" duration="7721000" />
+      <workItem from="1661842433592" duration="10651000" />
+      <workItem from="1661927801812" duration="4283000" />
+      <workItem from="1661951463200" duration="6728000" />
+      <workItem from="1661998650159" duration="4832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1661242386761">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1661242386761" />
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1662001240453">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1662001240453" />
+    <state x="534" y="158" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1661506217466">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="534" y="158" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1661506217466" />
+    <state x="249" y="0" key="#项目结构" timestamp="1661241359288">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="#项目结构/0.0.1536.834@0.0.1536.834" timestamp="1661241359288" />
+    <state x="549" y="107" key="FileChooserDialogImpl" timestamp="1661167710421">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="107" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1661167710421" />
+    <state width="1493" height="225" key="GridCell.Tab.0.bottom" timestamp="1662005054282">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="225" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1662005054282" />
+    <state width="1493" height="225" key="GridCell.Tab.0.center" timestamp="1662005054279">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="225" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1662005054279" />
+    <state width="1493" height="225" key="GridCell.Tab.0.left" timestamp="1662005054279">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="225" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1662005054279" />
+    <state width="1493" height="225" key="GridCell.Tab.0.right" timestamp="1662005054279">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="225" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1662005054279" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1661951302400">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1661951302400" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1661951302400">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1661951302400" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1661951302400">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1661951302400" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1661951302400">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1661951302400" />
+    <state x="423" y="121" width="714" height="592" key="NewModule_or_Project.wizard" timestamp="1661167186486">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="423" y="121" width="714" height="592" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1661167186486" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1661744798874">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1661744798874" />
+    <state x="287" y="194" width="1153" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1661929538986">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="287" y="194" width="1153" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1661929538986" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1661743580244">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1661743580244" />
+    <state x="829" y="252" width="672" height="678" key="search.everywhere.popup" timestamp="1661998725902">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="829" y="252" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1661998725902" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$App.ic" NAME="App Coverage Results" MODIFIED="1661492621882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bjpowernode.*</FILTER>
+    </SUITE>
+  </component>
+</project>
